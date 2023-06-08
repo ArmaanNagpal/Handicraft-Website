@@ -1,0 +1,60 @@
+.tabs{background-color: black;color: whitesmoke;width: 1350px;font-variant: small-caps;font-size: larger;}
+.tabs a{color: whitesmoke;text-decoration: none;}
+.tabs table{width: 1350px;padding: 10px;margin-left: 30px;}
+.logintab{margin-left: 15px;}
+
+.footer{background-color: darkslategray;height: 200px;}
+.footer ul{list-style: none; font-size: large;}
+.footer table{width: 1300px;text-align: center;height: 200px;}
+.footer a{text-decoration: none;color: whitesmoke;}
+
+/*Home Page*/
+
+.icon{margin-left: 30px;}
+
+h1{font-variant: small-caps;color: red; text-align: center;}
+p{text-align: justify;font-size: larger;line-height: 25px;margin: 10px;}
+#home1{background-color: lightblue;height: 500px;padding: 10px;}
+.subh1{float: left;width: 750px;height: 490px;background-color: transparent;}
+#home1 img{width: 500px;height: 350px;margin-left: 50px;margin-top: 50px;}
+
+#home2{height: 300px;}
+#home2 table{margin-left: 30px;}
+
+#home3{height: 480px;background-color: lightblue;}
+.subh3{width: 662px;height: 480px;float: left;text-align: center;}
+#home3 input{width: 500px;height: 30px;}
+#home3 textarea{width: 500px;}
+#home3 button{width: 450px;color: whitesmoke;background-color: orangered;border-radius: 5px;height: 40px;}
+
+.galimg{height: 350px; width: 420px; margin: 10px}
+
+.marbleimg{height: 150px; width: 200px;margin-left: 50px;}
+
+.brassimg{height: 150px; width: 200px;margin-left: 50px;}
+
+.woodimg{height: 150px; width: 200px;margin-left: 50px;}
+
+.rajimg{height: 150px; width: 200px;margin-left: 50px;}
+
+.login{margin-top: 15px; border-radius: 5px; font-size: large; background-color: lightgrey;width: 370px;margin-left: auto;margin-right: auto;padding: 20px;padding-left: 55px;}
+.inpt{width: 300px;height: 35px;border-radius: 5px;border: 1px solid black;}
+#bttn{background-color: slateblue; color: whitesmoke;}
+.login hr{clear: none;}
+.loginicon{margin-left: 50px;}
+.login a{text-decoration: none;}
+
+
+.signup{margin-top: 15px; border-radius: 5px; font-size: large; background-color: lightgrey;width: 370px;margin-left: auto;margin-right: auto;padding: 20px;padding-left: 55px;}
+.signup hr{clear: none;}
+.signupicon{margin-left: 50px;}
+.signup a{text-decoration: none;}
+#bttn1{background-color: slateblue; color: whitesmoke;}
+
+.forpass{margin-top: 150px; border-radius: 10px; font-size: large; background-color: lightgrey;width: 450px;margin-left: auto;margin-right: auto;padding: 20px;padding-left: 55px;}
+.forpass i{margin-left: 25px;}
+/*.forpass h2{margin-left: 70px}*/
+.forpass table{margin-left: 100px; border 2px solid black;}
+.forpass p{margin-left: 0}
+#mail{font-size: large;height: 30px; width: 400px; text-align: center;}
+#subforpass{background-color: slateblue; border-radius: 5px; color: whitesmoke;font-size: large;height: 40px; width: 380px; text-align: center; margin-left: 13px;}
